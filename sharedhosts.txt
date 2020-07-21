@@ -5,3 +5,4 @@
 192.168.99.20	Web_Server
 192.169.99.69	Bens_PC
 192.168.99.160	Bens_TV
+192.168.99.100	Jeremys_Note_8
