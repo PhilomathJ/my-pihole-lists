@@ -3,6 +3,13 @@
 192.168.99.10	pihole1
 192.168.99.11	pihole2
 192.168.99.20	Web_Server
+192.168.99.25	iMac_Wan0
+192.168.99.26	iMac_Eth0
+192.168.00.27	Lenovo_p50_laptop_Wan0
+192.168.99.28	Lenovo_p50_laptop_Eth0
+192.168.99.29	Kennedy_Note_8
+192.168.99.30	Lexie_LG_Phone
+192.168.99.31	Google_Home_Nest_Hub
 192.169.99.69	Bens_PC
+192.168.99.99	Jeremys_Note_8
 192.168.99.160	Bens_TV
-192.168.99.100	Jeremys_Note_8
